@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-https://meliapetersen.github.io/img/ryan-v-ryan.jpg
+![]({{meliapetersen.github.io}}/assets/img/ryan-v-ryan.jpg)
 
 
 ## Lorem Ipsum
