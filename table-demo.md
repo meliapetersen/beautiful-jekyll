@@ -1,5 +1,5 @@
 ---
-layout: liquid-table
+layout: liquid-table.html
 title: 'amiright?'
 reynolds:
   strengths:
@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-![]({{site.url}}/assets/https://meliapetersen.github.io/img/ryan-v-ryan.jpg)  
+https://meliapetersen.github.io/img/ryan-v-ryan.jpg
 
 
 ## Lorem Ipsum
