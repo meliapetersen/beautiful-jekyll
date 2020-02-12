@@ -20,7 +20,7 @@ description: A virtual proof that I can pretend I know how to code
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "this is me"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
